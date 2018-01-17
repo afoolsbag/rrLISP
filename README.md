@@ -1,6 +1,6 @@
-# LISP
+# Lisp
 
-*LISP* (1958)
+*Lisp* (1958)
 [*Scheme*](http://scheme-reports.org/) (1970)
 [*Common Lisp*](https://common-lisp.net/) (1984)
 [*Racket*](https://racket-lang.org/) (1994)
