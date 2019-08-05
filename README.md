@@ -1,11 +1,19 @@
-# Lisp
+# zhengrr 所知的 Lisp
 
-*Lisp* (1958)
-[*Scheme*](http://scheme-reports.org/) (1970)
-[*Common Lisp*](https://common-lisp.net/) (1984)
-[*Racket*](https://racket-lang.org/) (1994)
-[*Clojure*](https://clojure.org/) (2007)
+/ *Lisp* (1958)
+/ [*Scheme*](http://scheme-reports.org/) (1970)
+/ [*Common Lisp*](https://common-lisp.net/) (1984)
+/ [*Racket*](https://racket-lang.org/) (1994)
+/ [*Clojure*](https://clojure.org/) (2007)
 
-## Others
+## 参考
 
-+ ["Emacs"](http://github.com/emacs-tw/awesome-emacs). *Awesome*.
+*   [The Racket Reference](https://docs.racket-lang.org/reference/)
+
+## 指南
+
+*   [The Racket Guide](https://docs.racket-lang.org/guide/)
+
+## Awesome
+
++ [*Awesome Emacs*](http://github.com/emacs-tw/awesome-emacs)
