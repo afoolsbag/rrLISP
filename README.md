@@ -10,10 +10,14 @@
 
 *   [The Racket Reference](https://docs.racket-lang.org/reference/)
 
+## 风格
+
+*   [How to Program Racket: a Style Guide](https://docs.racket-lang.org/style/)
+
 ## 指南
 
 *   [The Racket Guide](https://docs.racket-lang.org/guide/)
 
 ## Awesome
 
-+ [*Awesome Emacs*](http://github.com/emacs-tw/awesome-emacs)
+*   [*Awesome Emacs*](http://github.com/emacs-tw/awesome-emacs)
